@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60c4a60-ee64-4a62-9141-6a08c2aa0a48" name="Changes" comment="iterables" />
+    <list default="true" id="e60c4a60-ee64-4a62-9141-6a08c2aa0a48" name="Changes" comment="iterables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CryptingMessages/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CryptingMessages/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +73,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BankingProgram" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771245831901</updated>
-      <workItem from="1771245833000" duration="2926000" />
+      <workItem from="1771245833000" duration="4334000" />
     </task>
     <task id="LOCAL-00001" summary="iterables">
       <option name="closed" value="true" />
@@ -106,6 +114,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="iterables" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonWeek2$main.coverage" NAME="main Coverage Results" MODIFIED="1771252146472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonWeek2$main.coverage" NAME="main Coverage Results" MODIFIED="1771253534416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CryptingMessages" />
   </component>
 </project>
