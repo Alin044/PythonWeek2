@@ -94,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771245831901</updated>
       <workItem from="1771245833000" duration="6346000" />
-      <workItem from="1771419775558" duration="5350000" />
+      <workItem from="1771419775558" duration="5718000" />
     </task>
     <task id="LOCAL-00001" summary="iterables">
       <option name="closed" value="true" />
@@ -157,6 +157,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonWeek2$main.coverage" NAME="main Coverage Results" MODIFIED="1771426269889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Polymorphism" />
+    <SUITE FILE_PATH="coverage/PythonWeek2$main.coverage" NAME="main Coverage Results" MODIFIED="1771428633206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DuckTyping" />
   </component>
 </project>
