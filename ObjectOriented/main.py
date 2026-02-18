@@ -1,4 +1,4 @@
-from car import Car
+from ObjectOriented.car import Car
 
 # class Car:
 #     def __init__(self, model, year, color, for_sale):
