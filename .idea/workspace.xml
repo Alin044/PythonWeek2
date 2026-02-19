@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60c4a60-ee64-4a62-9141-6a08c2aa0a48" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/exceptions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonFileDetection/stuff/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonFileDetection/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonFileDetection/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="11" />
+    <option name="cachedIndexableFilesCount" value="20" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -77,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PythonFileDetection/stuff" />
       <recent name="$PROJECT_DIR$/ObjectOriented" />
       <recent name="$PROJECT_DIR$/BankingProgram" />
     </key>
@@ -98,6 +100,7 @@
       <updated>1771245831901</updated>
       <workItem from="1771245833000" duration="6346000" />
       <workItem from="1771419775558" duration="11958000" />
+      <workItem from="1771520987084" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="iterables">
       <option name="closed" value="true" />
