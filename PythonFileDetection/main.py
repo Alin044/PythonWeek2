@@ -13,3 +13,5 @@ if os.path.exists(file_path):
         print("That is a directory")
 else:
     print(f"The location '{file_path}' does not exist")
+
+auf
