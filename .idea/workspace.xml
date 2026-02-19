@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60c4a60-ee64-4a62-9141-6a08c2aa0a48" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/PythonFileDetection/stuff/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonFileDetection/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonFileDetection/main.py" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,7 +99,7 @@
       <updated>1771245831901</updated>
       <workItem from="1771245833000" duration="6346000" />
       <workItem from="1771419775558" duration="11958000" />
-      <workItem from="1771520987084" duration="1046000" />
+      <workItem from="1771520987084" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="iterables">
       <option name="closed" value="true" />
